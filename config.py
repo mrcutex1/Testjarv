@@ -23,7 +23,8 @@ BOT_NAME = getenv("BOT_NAME" , "CUTE X MUSIC")
 ASSUSERNAME = getenv("ASSUSERNAME" , "Piku_Chiku_2")
 # ---------------------------------------------------------
 
-
+# Vars For API End Pont.
+YTPROXY_URL = getenv("YTPROXY_URL", 'https://yt.okflix.top/downloads') ## E.G https
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
