@@ -61,8 +61,8 @@ def stream_markup_timer(_, chat_id, played, dur):
             )
         ],
         [
-           InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs 📢", url=f"{SUPPORT_CHANNEL}",),
-           InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ 💬", url=f"{SUPPORT_CHAT}",), 
+            InlineKeyboardButton(text=" Uᴘᴅᴀᴛᴇs 📢 ", url=f"https://t.me/Ace_networkop"),
+            InlineKeyboardButton(text=" Sᴜᴘᴘᴏʀᴛ 💬 ", url=f"https://t.me/+JoSPjg4d91QzMWNl"),
         ],
         [
             
@@ -79,8 +79,8 @@ def stream_markup_timer(_, chat_id, played, dur):
 def stream_markup(_, chat_id):
     buttons = [
         [
-           InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs 📢", url=f"{SUPPORT_CHANNEL}",),
-           InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ 💬", url=f"{SUPPORT_CHAT}",), 
+            InlineKeyboardButton(text=" Uᴘᴅᴀᴛᴇs 📢 ", url=f"https://t.me/Ace_networkop"),
+            InlineKeyboardButton(text=" Sᴜᴘᴘᴏʀᴛ 💬 ", url=f"https://t.me/+JoSPjg4d91QzMWNl"),
         ],
         [
             
