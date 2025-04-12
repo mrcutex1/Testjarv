@@ -72,6 +72,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="|►►", callback_data=f"ADMIN Skip|{chat_id}"
             ),
         ],
+    ]
     return buttons
 
 
